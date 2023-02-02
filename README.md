@@ -5,3 +5,4 @@ There is a MATLAB file for creating gait energy image from seven images. There a
 
 # Motivation 
 I worked on the future works of [A novel computer vision based gait analysis technique for normal and Parkinson’s gaits classification](https://ieeexplore.ieee.org/abstract/document/9251179)
+
